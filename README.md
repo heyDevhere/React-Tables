@@ -1,4 +1,4 @@
-﻿<div align="center"><h1><b>Air BnB Clone</b><br> (Using React js)</h1>
+﻿<div align="center"><h1><b>Material React Table</b></h1>
 ## https://react-table-materialui.netlify.app/
 
 <img alt="preview" src="https://codesandbox.io/api/v1/sandboxes/r895w9/screenshot.png" width="65%"></div>
