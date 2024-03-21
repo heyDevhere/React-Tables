@@ -6,6 +6,9 @@
 ## Introduction
 Developed a Material-UI React Table with integrated filtering, sorting, and grouping capabilities
 
+## Deployment Link
+https://react-table-materialui.netlify.app/
+
 ## Getting Started
 
 ## Material React Table docs 👇👇
